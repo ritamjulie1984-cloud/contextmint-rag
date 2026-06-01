@@ -1,0 +1,3 @@
+# Place your PDF documents in this folder.
+# The notebook scans ../data recursively for *.pdf files.
+# This file just keeps the otherwise-empty folder tracked by git.
